@@ -19,6 +19,9 @@ const Nav = () => {
         <div className="nav__icon">
             <MdTableRows />
         </div>
+        <div className="nav__icon">
+            <GiCancel />
+        </div>
     </div>
   )
 }
